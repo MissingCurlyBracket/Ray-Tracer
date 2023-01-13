@@ -1,0 +1,27 @@
+newmtl buffy-gray
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+d 0.452632
+
+newmtl buffy-red
+illum 4
+Kd 0.80 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+d 0.452632
+
+newmtl buffy-green
+illum 4
+Kd 0.00 0.80 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+d 0.452632
+
+newmtl buffy-blue
+illum 4
+Kd 0.00 0.00 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+d 0.452632

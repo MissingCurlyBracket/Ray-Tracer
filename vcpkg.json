@@ -1,0 +1,19 @@
+{
+  "name": "practical2",
+  "version": "0.0.0",
+  "dependencies": [
+    "assimp",
+    "stb",
+    "fmt",
+    "glm",
+    "glew",
+    "glfw3",
+    {
+      "name": "imgui",
+      "features": [ "glfw-binding", "opengl2-binding", "opengl3-glew-binding" ]
+    },
+    "stb",
+    "nativefiledialog",
+    "tbb"
+  ]
+}
